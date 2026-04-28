@@ -1,0 +1,7 @@
+print("=== KALKULATOR NGAPAK  ===")
+a = float(input("Angka 1: "))
+b = float(input("Angka 2: "))
+print(f"{a} + {b} = {a+b}")
+print(f"{a} - {b} = {a-b}") 
+print(f"{a} x {b} = {a*b}")
+print(f"{a} : {b} = {a/b}")
