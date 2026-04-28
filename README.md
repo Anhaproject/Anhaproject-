@@ -13,3 +13,7 @@
    **1. Menjalankan Pengecek Bilangan Prima:**
    ```bash
    python Prima.py
+
+**2. Menjalankan Kalkulator:**
+```bash
+python kalkulator.py
